@@ -1,0 +1,23 @@
+{
+  "name": "whack-a-mole-javascript",
+  "version": "1.0.0",
+  "description": "Whack a mole game implemented by Vanilla JavaScript.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikkimahato/Whack-A-Mole-JavaScript.git"
+  },
+  "author": "Bikki Mahato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bikkimahato/Whack-A-Mole-JavaScript/issues"
+  },
+  "homepage": "https://github.com/bikkimahato/Whack-A-Mole-JavaScript#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
